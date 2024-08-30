@@ -1,4 +1,4 @@
-# Socket-Programming
+# Socket-Programming and Load Balancer for Web Server
 
 Implemented one server-multiple client program ,supporting messages
 broadcast and one-to-one private chat. Used pthread.h for multithreading and socket.h for creating TCP sockets. Created HTTP
